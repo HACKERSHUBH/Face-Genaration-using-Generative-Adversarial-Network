@@ -1,0 +1,5 @@
+model_checkpoint_path: "20"
+all_model_checkpoint_paths: "/tmp/model.ckpt"
+all_model_checkpoint_paths: "0"
+all_model_checkpoint_paths: "10"
+all_model_checkpoint_paths: "20"
